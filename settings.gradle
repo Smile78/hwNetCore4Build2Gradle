@@ -1,0 +1,5 @@
+rootProject.name = 'hwNetCore4Build2Gradle'
+include 'db'
+include 'api'
+include 'service'
+
